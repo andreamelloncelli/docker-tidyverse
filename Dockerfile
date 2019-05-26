@@ -1,4 +1,4 @@
-FROM akiro/r-base:R-3.4.4
+FROM vanlog/r-base:R-3.4.4
 
 MAINTAINER Andrea Melloncelli "andrea.melloncelli@vanlog.it"
 
